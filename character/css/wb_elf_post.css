@@ -1,0 +1,425 @@
+/*White Box post data css*/
+
+#characterName{
+    position:absolute;
+    top: 150px;
+    left: 100px;
+	font-size: 1em;
+}
+
+#race{
+    position:absolute;
+    top: 220px;
+    left: 100px;
+	font-size: 1em;
+}
+
+
+#alignment{
+    position:absolute;
+    top: 220px;
+    left: 280px;
+	font-size: 1em;
+}
+
+#playerName{
+    position:absolute;
+    top: 145px;
+    left: 430px;
+	font-size: 1em;
+}
+
+
+#armourName{
+    position:absolute;
+    top: 560px;
+    left: 305px;
+	font-size: 0.65em;
+}
+
+#armourAc{
+    position:absolute;
+    top: 800px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#armourWeight{
+    position:absolute;
+    top: 800px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+#shieldName{
+    position:absolute;
+    top: 620px;
+    left: 804px;
+	font-size: 1.3em;
+}
+
+#shieldAc{
+    position:absolute;
+    top: 820px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#shieldWeight{
+    position:absolute;
+    top: 820px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+
+#weaponsList{
+    position:absolute;
+    top: 595px;
+    left: 305px;
+	font-size: 0.65em;
+}
+
+#weaponsList2{
+    position:absolute;
+    top: 390px;
+    left: 710px;
+	font-size: 0.8em;
+}
+
+
+
+#totalArmourClassMod{
+    position:absolute;
+    top: 855px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+#totalArmourWeight{
+    position:absolute;
+    top: 820px;
+    left: 305px;
+	font-size: 0.5em;
+}
+
+#gearWeight{
+    position:absolute;
+    top: 832px;
+    left: 485px;
+	font-size: 0.5em;
+}
+
+
+
+#weaponNotes{
+    position:absolute;
+    top: 1143px;
+    left: 610px;
+	font-size: 0.4em;
+}
+
+
+#gearList{
+    position:absolute;
+    top: 560px;
+    left: 485px;
+	font-size: 0.6em;
+}
+
+#gearList2{
+    position:absolute;
+    top: 270px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+
+#clothingList{
+    position:absolute;
+    top: 570px;
+    left: 670px;
+	font-size: 0.6em;
+}
+
+#clothingList2{
+    position:absolute;
+    top: 570px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+#totalWeightCarried{
+    position:absolute;
+    top: 940px;
+    left: 95px;
+	font-size: 0.5em;
+}
+
+
+#hirelings{
+    position:absolute;
+    top: 960px;
+    left: 95px;
+	font-size: 0.5em;
+}
+
+
+#move{
+    position:absolute;
+    top: 1072px;
+    left: 165px;
+	font-size: 1em;
+}
+
+#abilityScoreGeneration{
+    position:absolute;
+    top: 880px;
+    left: 60px;
+	font-size: 0.5em;
+}
+
+#lightLoad{
+    position:absolute;
+    top: 1086px;
+    left: 360px;
+	font-size: 0.65em;
+}
+
+#lightLoadChecked{
+    position:absolute;
+    top: 1075px;
+    left: 275px;
+	font-size: 1em;
+}
+
+#heavyLoad{
+    position:absolute;
+    top: 1135px;
+    left: 360px;
+	font-size: 0.65em;
+}
+
+
+#heavyLoadChecked{
+    position:absolute;
+    top: 1117px;
+    left: 275px;
+	font-size: 1em;
+}
+
+
+#wealth{
+    position:absolute;
+    top: 530px;
+    left: 725px;
+	font-size: 0.6em;
+}
+
+#coinWeight{
+    position:absolute;
+    top: 610px;
+    left: 760px;
+	font-size: 0.5em;
+}
+
+
+
+#level{
+    position:absolute;
+    top: 135px;
+    left: 320px;
+	font-size: 1.1em;
+}
+
+
+#characterRaceTitle{
+    position:absolute;
+    top: 830px;
+    left: 60px;
+	font-size: 0.7em;
+}
+
+
+#characterRaceTrait{
+    position:absolute;
+    top: 980px;
+    left: 95px;
+	font-size: 0.5em;
+}
+
+#addLanguages{
+    position:absolute;
+    top: 1125px;
+    left: 95px;
+	font-size: 0.6em;
+}
+
+#elfAbility{
+    position:absolute;
+    top: 980px;
+    left: 95px;
+	font-size: 0.5em;
+}
+
+#meleeAc0{
+    position:absolute;
+    top: 322px;
+    left: 907px;
+	font-size: 0.9em;
+}
+
+#meleeAc1{
+    position:absolute;
+    top: 322px;
+    left: 872px;
+	font-size: 0.9em;
+}
+
+#meleeAc2{
+    position:absolute;
+    top: 322px;
+    left: 836px;
+	font-size: 0.9em;
+}
+
+#meleeAc3{
+    position:absolute;
+    top: 322px;
+    left: 801px;
+	font-size: 0.9em;
+}
+
+
+#meleeAc4{
+    position:absolute;
+    top: 322px;
+    left: 765px;
+	font-size: 0.9em;
+}
+
+#meleeAc5{
+    position:absolute;
+    top: 322px;
+    left: 730px;
+	font-size: 0.9em;
+}
+
+#meleeAc6{
+    position:absolute;
+    top: 322px;
+    left: 695px;
+	font-size: 0.9em;
+}
+
+#meleeAc7{
+    position:absolute;
+    top: 322px;
+    left: 660px;
+	font-size: 0.9em;
+}
+
+#meleeAc8{
+    position:absolute;
+    top: 322px;
+    left: 625px;
+	font-size: 0.9em;
+}
+
+#meleeAc9{
+    position:absolute;
+    top: 322px;
+    left: 590px;
+	font-size: 0.9em;
+}
+
+#missileAttack{
+    position:absolute;
+    top: 433px;
+    left: 610px;
+	font-size: 0.6em;
+}
+
+
+
+
+
+#spellLevelTitle{
+    position:absolute;
+    top: 1059px;
+    left: 121px;
+	font-size: 0.6em;
+}
+
+#spellNumberTitle{
+    position:absolute;
+    top: 1079px;
+    left: 95px;
+	font-size: 0.6em;
+}
+
+#spellsLevel1{
+    position:absolute;
+    top: 1059px;
+    left: 220px;
+	font-size: 0.6em;
+}
+
+
+#spellsLevel2{
+    position:absolute;
+    top: 1059px;
+    left: 260px;
+	font-size: 0.6em;
+}
+
+#spellsLevel3{
+    position:absolute;
+    top: 1059px;
+    left: 300px;
+	font-size: 0.6em;
+}
+font-size: 0.6em;
+}
+
+#spellsLevel6{
+    position:absolute;
+    top: 1059px;
+    left: 428px;
+	font-size: 0.6em;
+}
+
+#spellLine{
+    position:absolute;
+    top: 1062px;
+    left: 205px;
+	font-size: 0.6em;
+    font-weight: bold;
+}
+
+
+#spellsForLevel1{
+    position:absolute;
+    top: 1080px;
+    left: 220px;
+	font-size: 0.6em;
+}
+
+
+#spellsForLevel2{
+    position:absolute;
+    top: 1080px;
+    left: 260px;
+	font-size: 0.6em;
+}
+
+#spellsForLevel3{
+    position:absolute;
+    top: 1080px;
+    left: 300px;
+	font-size: 0.6em;
+}
+
+

@@ -1,0 +1,285 @@
+/* html rules
+--------------------*/
+
+/* id rules
+--------------------*/
+/*
+#sheet{
+    position:relative;
+	display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+*/
+
+/*
+section{
+	min-width: 950px;
+	margin: 0 auto;
+}
+*/
+
+body{
+	font-family: sans-serif;
+	font-size: 1.4em;
+	font-weight: bold;
+}
+
+#character_sheet{
+    width: 950px;
+    height: auto;
+	display: block;
+}
+
+
+
+
+#strength{
+    position:absolute;
+    top: 475px;
+    left: 68px;
+	font-size: 1.8em;
+}
+
+
+#strengthMod{
+    position:absolute;
+    top: 475px;
+    left: 130px;
+	font-size: 1.8em;
+}
+
+
+
+#intelligence{
+    position:absolute;
+    top: 680px;
+    left: 68px;
+	font-size: 1.8em;
+}
+
+#intelligenceMod{
+    position:absolute;
+    top: 680px;
+    left: 130px;
+	font-size: 1.8em;
+}
+
+
+#wisdom{
+    position:absolute;
+    top: 746px;
+    left: 68px;
+	font-size: 1.8em;
+}
+
+#wisdomMod{
+    position:absolute;
+    top: 746px;
+    left: 130px;
+	font-size: 1.8em;
+}
+
+
+#dexterity{
+    position:absolute;
+    top: 545px;
+    left: 68px;
+	font-size: 1.8em;
+}
+
+#dexterityMod{
+    position:absolute;
+    top: 545px;
+    left: 130px;
+	font-size: 1.8em;
+}
+
+
+#constitution{
+    position:absolute;
+    top: 610px;
+    left: 68px;
+	font-size: 1.8em;
+}
+
+#constitutionMod{
+    position:absolute;
+    top: 610px;
+    left: 130px;
+	font-size: 1.8em;
+}
+
+
+#charisma{
+    position:absolute;
+    top: 815px;
+    left: 68px;
+	font-size: 1.8em;
+}
+
+
+#charismaMod{
+    position:absolute;
+    top: 815px;
+    left: 130px;
+	font-size: 1.8em;
+}
+
+
+
+#savePoisonDeath{
+    position:absolute;
+    top: 820px;
+    left: 80px;
+	font-size: 1.5em;
+}
+
+
+#saveWands{
+    position:absolute;
+    top: 865px;
+    left: 80px;
+	font-size: 1.5em;
+}
+
+
+
+#savePetrify{
+    position:absolute;
+    top: 908px;
+    left: 80px;
+	font-size: 1.5em;
+}
+
+
+#saveBreathAttack{
+    position:absolute;
+    top: 952px;
+    left: 80px;
+	font-size: 1.5em;
+}
+
+
+#saveSpell{
+    position:absolute;
+    top: 991px;
+    left: 80px;
+	font-size: 1.5em;
+}
+
+
+#class{
+    position:absolute;
+    top: 150px;
+    left: 375px;
+	font-size: 1em;
+}
+
+
+#exNextLevel{
+    position:absolute;
+    top: 240px;
+    left: 565px;
+	font-size: 0.8em;
+}
+
+
+#exBonus{
+    position:absolute;
+    top: 192px;
+    left: 565px;
+	font-size: 0.8em;
+}
+
+
+#descendingAc{
+    position:absolute;
+    top: 332px;
+    left: 85px;
+	font-size: 1.1em;
+}
+
+#ascendingAc{
+    position:absolute;
+    top: 332px;
+    left: 125px;
+	font-size: 1.1em;
+}
+
+#hitPoints{
+    position:absolute;
+    top: 329px;
+    left: 290px;
+	font-size: 1.1em;
+}
+
+#singleSave{
+    position:absolute;
+    top: 320px;
+    left: 385px;
+	font-size: 1.8em;
+}
+
+#saveMatrix{
+    position:absolute;
+    top: 830px;
+    left: 865px;
+	font-size: 0.7em;
+}
+
+
+#saveMatrixDes{
+    position:absolute;
+    top: 830px;
+    left: 700px;
+	font-size: 0.7em;
+}
+
+#saveMatrixTitle{
+    position:absolute;
+    top: 800px;
+    left: 735px;
+	font-size: 0.8em;
+}
+
+
+#saveMatrixOption{
+    position:absolute;
+    top: 940px;
+    left: 715px;
+	font-size: 0.5em;
+}
+
+
+#hitDie{
+    position:absolute;
+    top: 393px;
+    left: 265px;
+	font-size: 0.6em;
+}
+
+
+#melee{
+    position:absolute;
+    top: 270px;
+    left: 520px;
+	font-size: 1em;
+}
+
+
+#range{
+    position:absolute;
+    top: 298px;
+    left: 520px;
+	font-size: 1em;
+}
+
+
+
+#dieRollMethod{
+    position: absolute;
+    top: 870px;
+    left:  350px;
+	font-size: 0.5em;
+}
